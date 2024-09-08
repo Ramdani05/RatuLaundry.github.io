@@ -6,7 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Rumah Laundry | Login</title>
+	<title>Ratu Laundry | Login</title>
 	<link rel="stylesheet" href="<?=url('_assets/css/login.css')?>">
 	<link rel="shortcut icon" href="<?= url('_assets/img/logo/favicon-svg.svg') ?>" type="image/x-icon">
 </head>
