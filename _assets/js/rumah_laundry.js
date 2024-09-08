@@ -1,1 +1,1 @@
-console.log('Hello Rumah Laundry');
+console.log("Hello Ratu Laundry");
